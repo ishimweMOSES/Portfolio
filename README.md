@@ -15,71 +15,12 @@ Dedicated and energetic professional with 2+ years of experience in customer sup
 
 ---
 
-## 🚀 Live Portfolio
 
-Open `portfolio.html` in your browser to view the complete portfolio website.
 
-### Quick Start
-```bash
-# Clone or navigate to the portfolio directory
-cd "c:\Users\07892\OneDrive\Documents\portfolio moise"
 
-# Open in your default browser
-start portfolio.html
-```
 
----
-
-## 📁 Project Structure
 
 ```
-portfolio moise/
-├── portfolio.html                    # Main portfolio website
-├── moise portfolio profile.jpeg      # Profile picture
-├── MOISE ISHIMWE .cv_2.pdf          # CV/Resume (downloadable)
-├── datatype.java                     # Java code sample
-├── servlet-assignments/              # Java Servlet Projects
-│   ├── login.html
-│   ├── search.html
-│   ├── LoginServlet.java
-│   ├── RedirectServlet.java
-│   ├── WEB-INF/
-│   │   └── web.xml
-│   └── README.md                     # Detailed servlet documentation
-├── .vscode/                          # VS Code configuration
-└── README.md                         # This file
-```
-
----
-
-## ✨ Portfolio Features
-
-### 🎨 Modern UI/UX Design
-- **Glassmorphic Design** - Premium look with frosted glass effects
-- **Gradient Animations** - Dynamic floating orb backgrounds
-- **Smooth Scrolling** - Seamless navigation experience
-- **Responsive** - Works flawlessly on desktop, tablet, and mobile
-- **Dark Theme** - Eye-friendly dark mode with vibrant accents
-
-### 📊 Sections
-- **Hero Section** - Eye-catching introduction with CTA buttons
-- **Statistics** - Key metrics showcasing experience and achievements
-- **About Me** - Professional background and expertise
-- **Skills** - Technical skills organized by category
-  - Analytics & Planning (Anaplan, Pigment, Data Analysis, Oracle PL/SQL)
-  - Technical Support (Network Configuration, Remote Desktop, CRM)
-  - Soft Skills (Customer Service, Problem Solving, Team Collaboration)
-- **Experience Timeline** - Professional journey with detailed responsibilities
-- **Education & Certifications** - Academic background and professional certificates
-- **Contact Form** - Easy way to get in touch
-
-### 🎯 Interactive Elements
-- Smooth scroll animations
-- Hover effects on cards and buttons
-- Active navigation highlighting
-- Animated statistics
-- Professional micro-interactions
-
 ---
 
 ## 💼 Professional Experience
