@@ -1,65 +1,92 @@
-# Moise Ishimwe - Portfolio 💼
+# Moise Ishimwe
 
-A modern, responsive portfolio website showcasing my professional experience, skills, and projects as a Business & Data Analyst and Technical Support Specialist.
+**Business & Data Analyst | Technical Support Specialist**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://moiseishimwe.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/moise-ishimwe-88b237375)
+📍 Kigali, Rwanda
 
----
-
-## 🎯 About Me
-
-Dedicated and energetic professional with 2+ years of experience in customer support, technical troubleshooting, and data analysis. Currently working as a **Business & Data Analyst at Fadmoor**, specializing in financial and operational planning using advanced tools like Anaplan and Pigment.
-
-**Location:** Kigali, Rwanda 🇷🇼
+🌐 **Portfolio**: https://agent-697f3feb98129d1c8a7--portfoliomoiseishimwe.netlify.app/
 
 ---
 
+## About Me
 
+Dedicated and energetic professional with 2+ years of experience in customer support, technical troubleshooting, and data analysis across both public and private sectors. Currently working as a Business & Data Analyst at Fadmoor, specializing in financial and operational planning using advanced tools like Anaplan and Pigment.
 
+Passionate about leveraging technology to solve business problems, optimize processes, and deliver exceptional customer experiences. Committed to continuous learning and excellence in everything I do.
 
+---
 
-
-```
-
-
-## 💼 Professional Experience
+## Professional Experience
 
 ### Business & Data Analyst
-**Fadmoor** | August 2025 - Present
-- Support financial and operational planning using Anaplan and Pigment
-- Build and maintain data models, dashboards, and reports
-- Collaborate with cross-functional teams on planning models
-- Ensure data accuracy through validation and optimization
+**Fadmoor (Outsourcing Company)** | August 2025 - Present | Kigali, Rwanda
+
+- Support financial and operational planning using Anaplan and Pigment for business performance modeling
+- Build and maintain data models, dashboards, and reports to support decision-making in sales, supply chain, and finance
+- Collaborate with cross-functional teams to design, test, and implement planning models aligned with client needs
+- Ensure data accuracy and consistency through validation and process optimization
+- Contribute to forecasting, budgeting, and scenario analysis projects
 
 ### Technical Support & Call Center Specialist
-**IceTech Solutions Ltd** | September 2023 - 2025
-- Handled 50+ daily client queries
-- Reduced average resolution time by 20%
-- Managed device installations and router troubleshooting
-- Provided technical documentation
+**IceTech Solutions Ltd** | September 2023 - 2025 | Kigali, Rwanda
+
+- Handled over 50+ daily client queries through calls, email, and live chat
+- Worked closely with IT and customer success teams to resolve software configuration problems
+- Managed device installations and assisted clients with router setup and troubleshooting
+- Implemented internal ticket tracking system, reducing average resolution time by 20%
+- Provided technical documentation and recorded solutions in the knowledge base
 
 ### IT Support Intern
-**Rubavu District Office** | January 2023 - June 2023
-- Supported office staff with technical troubleshooting
-- Managed user accounts and network connectivity
-- Coordinated equipment audits and security installations
+**Rubavu District Office** | January 2023 - June 2023 | Rubavu, Rwanda
+
+- Supported district office staff with troubleshooting for desktops, printers, and internal systems
+- Assisted in managing user accounts, email configurations, and network connectivity
+- Coordinated with district ICT team on equipment audits and antivirus installation
+- Documented user issues and solutions for future reference
 
 ### Freelance IT & Customer Support Assistant
-**Self-employed** | 2021 - 2022
-- Installed and configured systems for local businesses
-- Set up wireless networks and provided training
-- Remote support using AnyDesk and TeamViewer
+**Self-employed** | 2021 - 2022 | Kigali (Remote & Onsite)
+
+- Installed and configured systems and applications for local businesses and individuals
+- Set up small office/home wireless networks and provided training on digital tools
+- Assisted clients remotely through phone and tools like AnyDesk and TeamViewer
+- Built strong reputation for fast support and clear communication
 
 ---
 
-## 🎓 Education & Certifications
+## Skills
 
-### Education
-- **Bachelor of Science in Information Management** - AUCA (2024 - Present)
-- **Advanced Level Certificate in Computer Science** - ETFP (2023)
+**Analytics & Planning**
+- Anaplan
+- Pigment
+- Data Analysis
+- Oracle PL/SQL
 
-### Certifications
+**Technical Support**
+- Technical Support
+- Network Configuration
+- Remote Desktop Tools
+- CRM Systems
+
+**Soft Skills**
+- Customer Service
+- Problem Solving
+- Team Collaboration
+
+---
+
+## Education
+
+**Bachelor of Science in Information Management**  
+Adventist University of Central Africa (AUCA) | 2024 - Present | Kigali, Rwanda
+
+**Advanced Level Certificate in Computer Science**  
+Ecole technique de formation professionnelle | 2023 | Western Province, Rwanda
+
+---
+
+## Certifications
+
 - Artificial Intelligence Career Essentials - ALX Africa (2024)
 - Virtual Assistant Certificate - ALX Africa (2024)
 - Oracle PL/SQL Certificate - AUCA (2024)
@@ -67,142 +94,12 @@ Dedicated and energetic professional with 2+ years of experience in customer sup
 
 ---
 
-## 🛠️ Technical Skills
+## Contact
 
-### Analytics & Planning
-![Anaplan](https://img.shields.io/badge/-Anaplan-blue)
-![Pigment](https://img.shields.io/badge/-Pigment-purple)
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-green)
-![Oracle PL/SQL](https://img.shields.io/badge/-Oracle%20PL%2FSQL-red)
-
-### Technical Support
-- Network Configuration
-- Remote Desktop Tools (AnyDesk, TeamViewer)
-- CRM Systems
-- Hardware Troubleshooting
-
-### Soft Skills
-- Customer Service Excellence
-- Problem Solving
-- Team Collaboration
-- Technical Documentation
+📧 **Email**: ishimwemugemamoise@gmail.com  
+📱 **Phone**: +250 721 412 296 | +250 789 291 093  
+💼 **LinkedIn**: [linkedin.com/in/moise-ishimwe-88b237375](https://www.linkedin.com/in/moise-ishimwe-88b237375)
 
 ---
-
-## 📂 Projects
-
-### 1. Java Servlet Assignments
-Complete servlet application demonstrating:
-- User authentication with password validation
-- Google search integration
-- Form handling (GET/POST methods)
-- URL redirection techniques
-
-**Technologies:** Java, Servlets, HTML, CSS, Apache Tomcat
-
-[View Project Documentation](servlet-assignments/README.md)
-
----
-
-## 🌐 Technologies Used in Portfolio
-
-- **HTML5** - Semantic markup
-- **CSS3** - Modern styling with CSS custom properties
-- **JavaScript** - Interactive features and animations
-- **Google Fonts** - Inter and Outfit typefaces
-- **Responsive Design** - Mobile-first approach
-
----
-
-## 📬 Contact Information
-
-- **Email:** ishimwemugemamoise@gmail.com
-- **Phone:** +250 721 412 296 | +250 789 291 093
-- **LinkedIn:** [Moise Ishimwe](https://www.linkedin.com/in/moise-ishimwe-88b237375)
-- **Location:** Kigali, Rwanda
-
----
-
-## 🎯 Key Achievements
-
-- ✅ Reduced support ticket resolution time by 20%
-- ✅ Handled 50+ daily client queries with high satisfaction
-- ✅ 2+ years professional experience in IT and data analysis
-- ✅ 6+ professional certifications
-- ✅ Built reputation for fast support and clear communication
-
----
-
-## 📱 Responsive Design
-
-The portfolio is fully responsive and optimized for:
-- 🖥️ Desktop (1920px and above)
-- 💻 Laptop (1024px - 1920px)
-- 📱 Tablet (768px - 1024px)
-- 📱 Mobile (320px - 768px)
-
----
-
-## 🚀 Deployment
-
-### Local Development
-Simply open `portfolio.html` in any modern web browser.
-
-### Web Hosting Options
-- **GitHub Pages** - Free static hosting
-- **Netlify** - Deploy with drag-and-drop
-- **Vercel** - Fast deployment with preview URLs
-- **Traditional Web Hosting** - Upload to any web server
-
----
-
-## 📝 SEO Features
-
-- Semantic HTML structure
-- Meta descriptions
-- Proper heading hierarchy
-- Alt text for images
-- Fast load times
-- Mobile-friendly design
-
----
-
-## 🎨 Design Credits
-
-- **Color Palette:** Custom gradient design with purple, pink, and blue accents
-- **Typography:** Google Fonts (Inter & Outfit)
-- **Icons:** Unicode emoji
-- **Layout:** Custom responsive grid system
-- **Animations:** Custom CSS keyframe animations
-
----
-
-## 🔄 Future Enhancements
-
-- [ ] Add blog section
-- [ ] Include more project case studies
-- [ ] Integrate contact form with backend
-- [ ] Add testimonials section
-- [ ] Multi-language support (English/French/Kinyarwanda)
-
----
-
-## 📄 License
 
 © 2026 Moise Ishimwe. All rights reserved.
-
----
-
-## 🙏 Acknowledgments
-
-Special thanks to:
-- AUCA for academic foundation
-- Fadmoor for current opportunities
-- IceTech Solutions for professional growth
-- ALX Africa for certifications
-
----
-
-**Built with ❤️ by Moise Ishimwe**
-
-*Last Updated: February 2026*
